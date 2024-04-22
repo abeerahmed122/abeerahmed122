@@ -3,7 +3,11 @@
 
 - 🌱 I’m currently learning **Laravel Framework**
 
+- 💬 Ask me about **PHP**
+
 - 📫 How to reach me **abeerelkhamisy574@gmail.com**
+
+- 📄 Know about my experiences [abeerelkhamisy574@gmail.com](abeerelkhamisy574@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
