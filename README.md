@@ -5,9 +5,9 @@
 
 - 💬 Ask me about **PHP**
 
-📫 How to reach me    **[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20"/>](https://www.linkedin.com/in/abeer-elkhamisy-760b86244/)**
+📫 Connect With Me   **[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20"/>](https://www.linkedin.com/in/abeer-elkhamisy-760b86244/)**
 
-- 📄 Know about my experiences [abeerelkhamisy574@gmail.com](abeerelkhamisy574@gmail.com)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
