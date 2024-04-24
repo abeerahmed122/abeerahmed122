@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **PHP**
 
-- 📫 How to reach me **abeerelkhamisy574@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/abeer-elkhamisy-760b86244/**
 
 - 📄 Know about my experiences [abeerelkhamisy574@gmail.com](abeerelkhamisy574@gmail.com)
 
